@@ -1,0 +1,33 @@
+# frontend dependencies
+/frontend/node_modules
+
+# Next.js
+/frontend/.next/
+/frontend/out/
+
+# Coverage
+/frontend/coverage
+
+# Build
+/frontend/build
+
+# Environment variables
+/frontend/.env*
+.env*
+
+# Vercel
+/frontend/.vercel
+
+# TypeScript
+/frontend/*.tsbuildinfo
+/frontend/next-env.d.ts
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS
+.DS_Store
+*.pem
